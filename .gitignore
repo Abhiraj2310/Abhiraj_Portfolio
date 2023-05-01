@@ -1,0 +1,8 @@
+# Ignore S3 bucket policy file
+S3_Bucket_policy.json
+
+# Ignore README file
+README.md
+
+# Ignore main YAML file
+main_yaml_File_Contents.yml
